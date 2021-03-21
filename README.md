@@ -1,7 +1,8 @@
 
 # Steganography in PNGs
 -------------------------------------------------------------------------------------------------------
-*Steganography : practice of hiding a message in another object, in this case a text message in an image*
+*Steganography : the practice of hiding a message in another object*
+*in this case a text message in an image*
 -------------------------------------------------------------------------------------------------------
 This program checks to see if the dependencies are installed
 Runs both a coder and decoder program based on user input
