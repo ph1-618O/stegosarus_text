@@ -19,8 +19,9 @@
 - adding support for Linux and MAC Os
 
 # Uncoded Image
-![Uncoded Dahlia](https://github.com/ph1-618O/stegosarus_text/blob/main/images/flower.png)
+
+![Uncoded Dahlia](https://github.com/ph1-618O/stegosarus_text/blob/main/images/flower.png =250x)
 
 # Coded Image
-![Coded Dahlia](https://github.com/ph1-618O/stegosarus_text/blob/main/images/fwr_message.png)
+![Coded Dahlia](https://github.com/ph1-618O/stegosarus_text/blob/main/images/fwr_message.pn g=250x)
 - message is 'dahlia'
