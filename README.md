@@ -18,6 +18,11 @@
 - creating a conditional that checks if files are acceptable format, ie PNG or BMP
 - adding support for Linux and MAC Os
 
+# Uncoded Image           |  Coded Image
+:-------------------------:|:-------------------------:
+<img src="https://github.com/ph1-618O/stegosarus_text/blob/main/images/flower.png" alt="uncoded dahlia" width="300"/>  | <img src="https://github.com/ph1-618O/stegosarus_text/blob/main/images/fwr_message.png" alt="coded dahlia" width="300"/>
+
+
 # Uncoded Image/ Coded Image
 <img src="https://github.com/ph1-618O/stegosarus_text/blob/main/images/flower.png" alt="uncoded dahlia" width="300"/>
 
